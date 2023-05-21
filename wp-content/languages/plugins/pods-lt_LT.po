@@ -1,0 +1,104 @@
+# Translation of Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) in Lithuanian
+# This file is distributed under the same license as the Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-10 06:44:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: lt\n"
+"Project-Id-Version: Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release)\n"
+
+#: classes/PodsInit.php:2281 src/Pods/Admin/Config/Pod.php:411
+msgid "Uploaded to this %s"
+msgstr "Įkelta į šį %s"
+
+#: classes/PodsInit.php:2278 src/Pods/Admin/Config/Pod.php:384
+msgid "%s Archives"
+msgstr "Archyvai: %s"
+
+#: classes/PodsInit.php:2280 src/Pods/Admin/Config/Pod.php:402
+msgid "Insert into %s"
+msgstr "Įterpti į %s"
+
+#: classes/PodsInit.php:2277
+msgid "Use as featured image"
+msgstr "Naudoti kaip specialųjį paveikslėlį"
+
+#: classes/PodsInit.php:2275
+msgid "Set featured image"
+msgstr "Spec. paveikslėlis"
+
+#: classes/PodsInit.php:2276
+msgid "Remove featured image"
+msgstr "Pašalinti specialųjį paveikslėlį"
+
+#: includes/data.php:2023 tribe-common/src/views/promoter/auth.php:80
+msgid "and"
+msgstr "ir"
+
+#: ui/admin/setup-add.php:166 ui/admin/setup-add.php:364
+msgid "Content Type"
+msgstr "Turinio tipas"
+
+#: classes/fields/pick.php:3671
+#: tribe-common/src/Tribe/Languages/Locations.php:320
+msgid "Zambia"
+msgstr "Zambija"
+
+#: classes/fields/pick.php:3672
+#: tribe-common/src/Tribe/Languages/Locations.php:321
+msgid "Zimbabwe"
+msgstr "Zimbabvė"
+
+#: classes/fields/pick.php:660 src/Pods/Admin/Config/Pod.php:964
+#: ui/admin/setup-add.php:374
+msgid "Comments"
+msgstr "Komentarai"
+
+#: classes/PodsUI.php:3047 tribe-common/src/Tribe/Dialog/View.php:228
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: classes/PodsAdmin.php:2310 src/Pods/Admin/Config/Field.php:145
+msgid "Description"
+msgstr "Aprašymas"
+
+#: classes/PodsUI.php:4809
+msgid "Go to the last page"
+msgstr "Eiti į paskutinį puslapį"
+
+#: classes/PodsUI.php:4780
+msgid "Current page"
+msgstr "Dabartinis puslapis"
+
+#: classes/PodsUI.php:4775
+msgid "Go to the first page"
+msgstr "Eiti į pirmą puslapį"
+
+#: classes/PodsUI.php:4776
+msgid "Go to the previous page"
+msgstr "Eiti į ankstesnį puslapį"
+
+#: classes/PodsUI.php:4808
+msgid "Go to the next page"
+msgstr "Eiti į kitą puslapį"
+
+#: classes/PodsAdmin.php:556 classes/PodsAdmin.php:577
+#: tribe-common/src/Tribe/Settings.php:254 ui/admin/components-admin.php:10
+#: ui/admin/settings-settings.php:68 ui/admin/settings-settings.php:72
+#: ui/admin/settings.php:11 ui/admin/upgrade/upgrade_2_0_0.php:203
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: src/Pods/Admin/Config/Pod.php:691 src/Pods/Admin/Config/Pod.php:1105
+#: src/Pods/Admin/Config/Pod.php:1372 src/Pods/Admin/Config/Pod.php:1450
+msgid "Menu Position"
+msgstr "Meniu vieta"
+
+#: classes/Pods.php:4037 classes/PodsAdmin.php:779 classes/PodsForm.php:419
+#: tribe-common/src/Tribe/Settings.php:377 ui/admin/components-admin.php:107
+msgid "Save Changes"
+msgstr "Įrašyti pakeitimus"
